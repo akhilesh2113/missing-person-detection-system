@@ -1,7 +1,7 @@
 # missing-person-detection-system
 This project pioneers a Missing Person Detection System that integrates real-time image and video analysis with intelligent data processing. It's designed to act as a crucial force multiplier for law enforcement and rescue teams, providing rapid identification capabilities in critical moments.
 
-# PROJECT_STRUCTURE
+# PROJECT STRUCTURE
 face_reconition_lost_person_find/
 ├── app.py                      # Main application logic for face detection and recognition
 ├── main.py                     # Starts the system and initiates recognition
